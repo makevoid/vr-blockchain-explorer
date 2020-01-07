@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d33b878fb564e2438999b92055037ee
+timeCreated: 1503208061
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - block: {instanceID: 0}
+  - transaction: {instanceID: 0}
+  - txPrefab: {fileID: 1014073931016078, guid: eff7666603207da4c80090612f63a588, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

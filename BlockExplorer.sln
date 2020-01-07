@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockExplorer", "BlockExplorer.csproj", "{1AD4B399-9460-8040-4A0F-2BE1FC702118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockExplorer.Plugins", "BlockExplorer.Plugins.csproj", "{29244D47-449B-3382-D837-6B5B0B3EB051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockExplorer.Editor", "BlockExplorer.Editor.csproj", "{402C6DA7-BB94-9504-DF51-F21A0498554E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AD4B399-9460-8040-4A0F-2BE1FC702118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD4B399-9460-8040-4A0F-2BE1FC702118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD4B399-9460-8040-4A0F-2BE1FC702118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD4B399-9460-8040-4A0F-2BE1FC702118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29244D47-449B-3382-D837-6B5B0B3EB051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29244D47-449B-3382-D837-6B5B0B3EB051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29244D47-449B-3382-D837-6B5B0B3EB051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29244D47-449B-3382-D837-6B5B0B3EB051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{402C6DA7-BB94-9504-DF51-F21A0498554E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{402C6DA7-BB94-9504-DF51-F21A0498554E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{402C6DA7-BB94-9504-DF51-F21A0498554E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{402C6DA7-BB94-9504-DF51-F21A0498554E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
